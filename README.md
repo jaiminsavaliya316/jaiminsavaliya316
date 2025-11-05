@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaimin savaliya
-- 👀 I’m interested in Software Development, Data Science, Machine Learning, AI
+- 👀 I’m interested in Software Engineering, and AI
 - 🌱 I’m a full-time Masters student at Northeastern University, USA.
 
 <!---
